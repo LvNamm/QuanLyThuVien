@@ -1,0 +1,34 @@
+C:\Users\NGUYEN THI TO UYEN\source\repos\bautaplon\bautaplon\bin\Debug\bautaplon.exe.config
+C:\Users\NGUYEN THI TO UYEN\source\repos\bautaplon\bautaplon\bin\Debug\bautaplon.exe
+C:\Users\NGUYEN THI TO UYEN\source\repos\bautaplon\bautaplon\bin\Debug\bautaplon.pdb
+C:\Users\NGUYEN THI TO UYEN\source\repos\bautaplon\bautaplon\obj\Debug\bautaplon.csproj.AssemblyReference.cache
+C:\Users\NGUYEN THI TO UYEN\source\repos\bautaplon\bautaplon\obj\Debug\bautaplon.Form1.resources
+C:\Users\NGUYEN THI TO UYEN\source\repos\bautaplon\bautaplon\obj\Debug\bautaplon.Properties.Resources.resources
+C:\Users\NGUYEN THI TO UYEN\source\repos\bautaplon\bautaplon\obj\Debug\bautaplon.csproj.GenerateResource.cache
+C:\Users\NGUYEN THI TO UYEN\source\repos\bautaplon\bautaplon\obj\Debug\bautaplon.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN THI TO UYEN\source\repos\bautaplon\bautaplon\obj\Debug\bautaplon.exe
+C:\Users\NGUYEN THI TO UYEN\source\repos\bautaplon\bautaplon\obj\Debug\bautaplon.pdb
+C:\Users\NGUYEN THI TO UYEN\source\repos\bautaplon\bautaplon\obj\Debug\bautaplon.Form2.resources
+C:\Users\NGUYEN THI TO UYEN\source\repos\baitaplon\bautaplon\bin\Debug\bautaplon.exe.config
+C:\Users\NGUYEN THI TO UYEN\source\repos\baitaplon\bautaplon\bin\Debug\bautaplon.exe
+C:\Users\NGUYEN THI TO UYEN\source\repos\baitaplon\bautaplon\bin\Debug\bautaplon.pdb
+C:\Users\NGUYEN THI TO UYEN\source\repos\baitaplon\bautaplon\obj\Debug\bautaplon.csproj.AssemblyReference.cache
+C:\Users\NGUYEN THI TO UYEN\source\repos\baitaplon\bautaplon\obj\Debug\bautaplon.Form1.resources
+C:\Users\NGUYEN THI TO UYEN\source\repos\baitaplon\bautaplon\obj\Debug\bautaplon.Form2.resources
+C:\Users\NGUYEN THI TO UYEN\source\repos\baitaplon\bautaplon\obj\Debug\bautaplon.Properties.Resources.resources
+C:\Users\NGUYEN THI TO UYEN\source\repos\baitaplon\bautaplon\obj\Debug\bautaplon.csproj.GenerateResource.cache
+C:\Users\NGUYEN THI TO UYEN\source\repos\baitaplon\bautaplon\obj\Debug\bautaplon.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN THI TO UYEN\source\repos\baitaplon\bautaplon\obj\Debug\bautaplon.exe
+C:\Users\NGUYEN THI TO UYEN\source\repos\baitaplon\bautaplon\obj\Debug\bautaplon.pdb
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\bin\Debug\bautaplon.exe.config
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\bin\Debug\bautaplon.exe
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\bin\Debug\bautaplon.pdb
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\bautaplon.csproj.AssemblyReference.cache
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\bautaplon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\bautaplon.FormMenuchucnang.resources
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\bautaplon.FormChitietbandoc.resources
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\bautaplon.Properties.Resources.resources
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\bautaplon.csproj.GenerateResource.cache
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\bautaplon.csproj.CoreCompileInputs.cache
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\bautaplon.exe
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\bautaplon.pdb

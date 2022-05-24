@@ -1,0 +1,67 @@
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\bin\Debug\bautaplon.exe.config
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\bin\Debug\bautaplon.exe
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\bin\Debug\bautaplon.pdb
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\Quanlythuvien.Form1.resources
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormMenuchucnang.resources
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormChitietbandoc.resources
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormMuonTraSach.resources
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormQuanlynhanvien.resources
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormQuanLySach.resources
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\bautaplon.Properties.Resources.resources
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\Quanlythuvien.QLBD.resources
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.GenerateResource.cache
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.CoreCompileInputs.cache
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\bautaplon.exe
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\bautaplon.pdb
+C:\Users\Luong Nam\Downloads\baitaplon\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.AssemblyReference.cache
+C:\Users\Luong Nam\Downloads\baitaplon\1\baitaplon\bautaplon\bin\Debug\bautaplon.exe.config
+C:\Users\Luong Nam\Downloads\baitaplon\1\baitaplon\bautaplon\bin\Debug\bautaplon.exe
+C:\Users\Luong Nam\Downloads\baitaplon\1\baitaplon\bautaplon\bin\Debug\bautaplon.pdb
+C:\Users\Luong Nam\Downloads\baitaplon\1\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.AssemblyReference.cache
+C:\Users\Luong Nam\Downloads\baitaplon\1\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luong Nam\Downloads\baitaplon\1\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormMuonTraSach.resources
+C:\Users\Luong Nam\Downloads\baitaplon\1\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormQuanLySach.resources
+C:\Users\Luong Nam\Downloads\baitaplon\1\baitaplon\bautaplon\obj\Debug\Quanlythuvien.Form1.resources
+C:\Users\Luong Nam\Downloads\baitaplon\1\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormMenuchucnang.resources
+C:\Users\Luong Nam\Downloads\baitaplon\1\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormChitietbandoc.resources
+C:\Users\Luong Nam\Downloads\baitaplon\1\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormQuanlynhanvien.resources
+C:\Users\Luong Nam\Downloads\baitaplon\1\baitaplon\bautaplon\obj\Debug\bautaplon.Properties.Resources.resources
+C:\Users\Luong Nam\Downloads\baitaplon\1\baitaplon\bautaplon\obj\Debug\Quanlythuvien.QLBD.resources
+C:\Users\Luong Nam\Downloads\baitaplon\1\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.GenerateResource.cache
+C:\Users\Luong Nam\Downloads\baitaplon\1\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.CoreCompileInputs.cache
+C:\Users\Luong Nam\Downloads\baitaplon\1\baitaplon\bautaplon\obj\Debug\bautaplon.exe
+C:\Users\Luong Nam\Downloads\baitaplon\1\baitaplon\bautaplon\obj\Debug\bautaplon.pdb
+D:\Download\LTW_nhom5\baitaplon\bautaplon\bin\Debug\bautaplon.exe.config
+D:\Download\LTW_nhom5\baitaplon\bautaplon\bin\Debug\bautaplon.exe
+D:\Download\LTW_nhom5\baitaplon\bautaplon\bin\Debug\bautaplon.pdb
+D:\Download\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.AssemblyReference.cache
+D:\Download\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.SuggestedBindingRedirects.cache
+D:\Download\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormMuonTraSach.resources
+D:\Download\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormQuanLySach.resources
+D:\Download\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.Form1.resources
+D:\Download\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormMenuchucnang.resources
+D:\Download\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormChitietbandoc.resources
+D:\Download\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormQuanlynhanvien.resources
+D:\Download\LTW_nhom5\baitaplon\bautaplon\obj\Debug\bautaplon.Properties.Resources.resources
+D:\Download\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.QLBD.resources
+D:\Download\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.GenerateResource.cache
+D:\Download\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.CoreCompileInputs.cache
+D:\Download\LTW_nhom5\baitaplon\bautaplon\obj\Debug\bautaplon.exe
+D:\Download\LTW_nhom5\baitaplon\bautaplon\obj\Debug\bautaplon.pdb
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\bin\Debug\bautaplon.exe.config
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\bin\Debug\bautaplon.exe
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\bin\Debug\bautaplon.pdb
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.AssemblyReference.cache
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormMuonTraSach.resources
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormQuanLySach.resources
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.Form1.resources
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormMenuchucnang.resources
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormChitietbandoc.resources
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormQuanlynhanvien.resources
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\bautaplon.Properties.Resources.resources
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.QLBD.resources
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.GenerateResource.cache
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.CoreCompileInputs.cache
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\bautaplon.exe
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\bautaplon.pdb
