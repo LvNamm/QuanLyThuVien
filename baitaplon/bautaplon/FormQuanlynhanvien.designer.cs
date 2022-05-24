@@ -241,7 +241,11 @@ namespace Quanlythuvien
             this.Controls.Add(this.dataGridView1);
             this.Name = "FormQuanlynhanvien";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+<<<<<<< HEAD
             this.Text = "Quản Lý Nhân Viên";
+=======
+            this.Text = "Form1";
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.panel1.ResumeLayout(false);

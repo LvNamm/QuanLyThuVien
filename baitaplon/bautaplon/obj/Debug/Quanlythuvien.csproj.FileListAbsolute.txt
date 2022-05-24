@@ -49,6 +49,7 @@ D:\Download\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.Generat
 D:\Download\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.CoreCompileInputs.cache
 D:\Download\LTW_nhom5\baitaplon\bautaplon\obj\Debug\bautaplon.exe
 D:\Download\LTW_nhom5\baitaplon\bautaplon\obj\Debug\bautaplon.pdb
+<<<<<<< HEAD
 E:\LTW_nhom5\LTW_nhom5\baitaplon\bautaplon\bin\Debug\bautaplon.exe.config
 E:\LTW_nhom5\LTW_nhom5\baitaplon\bautaplon\bin\Debug\bautaplon.exe
 E:\LTW_nhom5\LTW_nhom5\baitaplon\bautaplon\bin\Debug\bautaplon.pdb
@@ -69,3 +70,21 @@ E:\LTW_nhom5\LTW_nhom5\baitaplon\bautaplon\obj\Debug\bautaplon.pdb
 E:\LTW_nhom5\LTW_nhom5\baitaplon\bautaplon\bin\Debug\DevExpress.Data.v21.2.dll
 E:\LTW_nhom5\LTW_nhom5\baitaplon\bautaplon\bin\Debug\DevExpress.Data.v21.2.xml
 E:\LTW_nhom5\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.CopyComplete
+=======
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\bin\Debug\bautaplon.exe.config
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\bin\Debug\bautaplon.exe
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\bin\Debug\bautaplon.pdb
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.AssemblyReference.cache
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormMuonTraSach.resources
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormQuanLySach.resources
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.Form1.resources
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormMenuchucnang.resources
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormChitietbandoc.resources
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.FormQuanlynhanvien.resources
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\bautaplon.Properties.Resources.resources
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.QLBD.resources
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.GenerateResource.cache
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\Quanlythuvien.csproj.CoreCompileInputs.cache
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\bautaplon.exe
+D:\Code_Cs\LTW_nhom5\baitaplon\bautaplon\obj\Debug\bautaplon.pdb
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6

@@ -33,7 +33,10 @@ namespace Quanlythuvien
 
         private void Form1_Load(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             dataGridView1.Columns.Clear();
+=======
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
             dataGridView1.DataSource = bandocRepo.getAll();
             fixSizeColumns();
             textBox1.Text = bandocRepo.getIden().ToString();
@@ -68,6 +71,7 @@ namespace Quanlythuvien
         private void button6_Click(object sender, EventArgs e)
         {
             if (textBox5.Text.Length==0)
+<<<<<<< HEAD
             {
                 dataGridView1.Columns.Clear();
                 dataGridView1.DataSource = bandocRepo.getAll();
@@ -90,6 +94,21 @@ namespace Quanlythuvien
                 fixSizeColumns();
             }
         }
+=======
+                dataGridView1.DataSource = bandocRepo.getAll();
+            else if (comboBox1.SelectedIndex==0)
+                try {
+                    dataGridView1.DataSource = bandocRepo.findById(Convert.ToInt32(textBox5.Text));
+                    fixSizeColumns();
+                }
+                catch (Exception ex) {
+                    
+                }
+            else if (comboBox1.SelectedIndex==1)
+                    dataGridView1.DataSource = bandocRepo.findByName(textBox5.Text);
+                    fixSizeColumns();
+                }
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -112,17 +131,27 @@ namespace Quanlythuvien
                     throw new MyException("Địa chỉ không được để trống");
                 banDoc.ngaySinh = dateTimePicker1.Value;
                 string y = bandocRepo.insertBandoc(banDoc);
+<<<<<<< HEAD
                 dataGridView1.Columns.Clear();
+=======
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
                 dataGridView1.DataSource = bandocRepo.getAll();
                 fixSizeColumns();
                 textBox2.Text = "";
                 textBox4.Text = "";
                 textBox1.Text = bandocRepo.getIden().ToString();
                 dateTimePicker1.Value = DateTime.Now;
+<<<<<<< HEAD
                 MessageBox.Show("Lưu thành công","Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             catch (MyException ex) {
                 MessageBox.Show(ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+=======
+                MessageBox.Show(y);
+            }
+            catch (MyException ex) {
+               MessageBox.Show(ex.Message);
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
             }
 
         }
@@ -164,6 +193,7 @@ namespace Quanlythuvien
                     throw new MyException("Địa chỉ không được để trống");
                 banDoc.ngaySinh = dateTimePicker1.Value;
                 string y = bandocRepo.updateBandoc(banDoc);
+<<<<<<< HEAD
                 dataGridView1.Columns.Clear();
                 dataGridView1.DataSource = bandocRepo.getAll();
                 fixSizeColumns();
@@ -174,6 +204,15 @@ namespace Quanlythuvien
                 MessageBox.Show("Mã sách chưa tồn tại", "Lỗi",MessageBoxButtons.OK, MessageBoxIcon.Error);
                 MessageBox.Show("Mã người dùng chưa tồn tại", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 MessageBox.Show("Hãy nhập đủ thông tin", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+=======
+                dataGridView1.DataSource = bandocRepo.getAll();
+                fixSizeColumns();
+                MessageBox.Show(y);
+            }
+            catch (MyException ex)
+            {
+                MessageBox.Show(ex.Message);
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
             }
            // catch(Exception ex)
           //  {
@@ -189,6 +228,7 @@ namespace Quanlythuvien
         /// </summary>
         private void fixSizeColumns()
         {
+<<<<<<< HEAD
             
             int[] sizeColumns = { 65, 125, 75, 100, 100 };
             for (int i = 0; i<dataGridView1.Columns.Count; i++)
@@ -218,6 +258,13 @@ namespace Quanlythuvien
                 this.dataGridView1.Columns.Add(button1);
             }
             dataGridView1.Columns[dataGridView1.Columns.Count-1].Width = 35;
+=======
+            int[] sizeColumns = { 50, 135, 70, 100, 100 };
+            for (int i = 0; i<dataGridView1.Columns.Count; i++)
+            {
+                dataGridView1.Columns[i].Width = sizeColumns[i];
+            }
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -264,7 +311,11 @@ namespace Quanlythuvien
 
         private void dataGridView1_CellValueChanged(object sender, DataGridViewCellEventArgs e)
         {
+<<<<<<< HEAD
            
+=======
+            MessageBox.Show(dataGridView1.Rows[e.RowIndex].Cells[e.ColumnIndex].Value.ToString());
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
         }
 
         private void button7_Click(object sender, EventArgs e)
@@ -284,6 +335,7 @@ namespace Quanlythuvien
             b.StartPosition = FormStartPosition.CenterScreen;
             b.Show();
         }
+<<<<<<< HEAD
 
         private void dataGridView1_CellContentClick_1(object sender, DataGridViewCellEventArgs e)
         {
@@ -316,5 +368,7 @@ namespace Quanlythuvien
         {
 
         }
+=======
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
     }
 }

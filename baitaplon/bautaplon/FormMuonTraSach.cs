@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ﻿using System;
+=======
+﻿using bautaplon;
+using System;
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -17,6 +22,7 @@ namespace Quanlythuvien
         public FormMuonTraSach()
         {
             InitializeComponent();
+<<<<<<< HEAD
         }
 
         private void btnXacNhan1_Click(object sender, EventArgs e)
@@ -296,5 +302,11 @@ namespace Quanlythuvien
             btnXacNhanTraSach.Enabled = false;
 
         }
+=======
+            
+        }
+
+        
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
     }
 }

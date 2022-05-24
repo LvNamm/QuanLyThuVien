@@ -54,9 +54,12 @@ namespace Quanlythuvien
             Ketnoi();
 
             InitializeComponent();
+<<<<<<< HEAD
             textBox1.Text = "user1";
             textBox2.Text = "1";
             comboBox1.Text = "Quản lý";
+=======
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)

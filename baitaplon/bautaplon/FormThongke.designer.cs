@@ -296,7 +296,11 @@ namespace Quanlythuvien
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+<<<<<<< HEAD
             this.Text = "Thống kê";
+=======
+            this.Text = "Form1";
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

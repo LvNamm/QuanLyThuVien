@@ -13,11 +13,18 @@ namespace Quanlythuvien
 {
     public partial class FormQuanLySach : Form
     {
+<<<<<<< HEAD
         private string[] columsName = new string[] { "Mã Sách", "Tên Sách", "Tên tác giả", "Trạng thái"};
+=======
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
         public FormQuanLySach()
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
         private void LoadDgv()
         {
             SqlConnection conn = new SqlConnection(ConnectionString.getConnectionString());
@@ -26,6 +33,7 @@ namespace Quanlythuvien
             SqlDataAdapter daSach = new SqlDataAdapter(sql, conn);
             DataTable dtSach = new DataTable();
             daSach.Fill(dtSach);
+<<<<<<< HEAD
             for (int i = 0; i<dtSach.Columns.Count; i++)
             {
                 dtSach.Columns[i].ColumnName = columsName[i];
@@ -54,6 +62,12 @@ namespace Quanlythuvien
                 this.dgvSach.Columns.Add(button1);
             }
             dgvSach.Columns[dgvSach.Columns.Count-1].Width = 35;
+=======
+            dgvSach.DataSource = dtSach;
+            dgvSach.Columns[1].Width = 150;
+            dgvSach.Columns[2].Width = 150;
+            dgvSach.Columns[0].Width = 90;
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
         }
         private void Reset()
         {
@@ -137,16 +151,32 @@ namespace Quanlythuvien
                 MessageBox.Show("Vui lòng điền thông tin");
                 return; 
             }
+<<<<<<< HEAD
             SqlConnection conn = new SqlConnection(ConnectionString.getConnectionString());
             conn.Open();
+=======
+
+
+            SqlConnection conn = new SqlConnection(ConnectionString.getConnectionString());
+            conn.Open();
+
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
             string sql = "Insert into Sach values ( @TenSach, @TenTacGia, 1 )";
             SqlCommand Command = new SqlCommand(sql, conn);
             Command.Parameters.AddWithValue("@TenSach", textBox3.Text);
             Command.Parameters.AddWithValue("@TenTacGia", textBox2.Text);
+<<<<<<< HEAD
+=======
+            
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
             Command.ExecuteNonQuery();
             MessageBox.Show("Bạn đã thêm thành công sách");
             Reset();
             LoadDgv();
+<<<<<<< HEAD
+=======
+            
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
         }
 
         private void btnSua_Click(object sender, EventArgs e)
@@ -162,8 +192,14 @@ namespace Quanlythuvien
             SqlCommand Command = new SqlCommand(sql, conn);
             Command.Parameters.AddWithValue("@TenSach", textBox3.Text);
             Command.Parameters.AddWithValue("@TenTacGia", textBox2.Text);
+<<<<<<< HEAD
             Command.ExecuteNonQuery();
             MessageBox.Show("Sửa thông tin sách thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+=======
+
+            Command.ExecuteNonQuery();
+            MessageBox.Show("Bạn đã chỉnh sửa thành công!");
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
             LoadDgv();
         }
 
@@ -184,6 +220,7 @@ namespace Quanlythuvien
                     SqlDataAdapter daSach = new SqlDataAdapter(sql, conn);
                     DataTable dtSach = new DataTable();
                     daSach.Fill(dtSach);
+<<<<<<< HEAD
                     for (int i = 0; i<dtSach.Columns.Count; i++)
                     {
                         dtSach.Columns[i].ColumnName = columsName[i];
@@ -212,6 +249,13 @@ namespace Quanlythuvien
                         this.dgvSach.Columns.Add(button1);
                     }
                     dgvSach.Columns[dgvSach.Columns.Count-1].Width = 35;
+=======
+                    dgvSach.DataSource = dtSach;
+                    dgvSach.Columns[1].Width = 150;
+                    dgvSach.Columns[2].Width = 150;
+                    dgvSach.Columns[0].Width = 90;
+
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
                 }
                 if (comboBox.SelectedIndex == 1)
                 {
@@ -231,6 +275,7 @@ namespace Quanlythuvien
 
            
         }
+<<<<<<< HEAD
 
         private void dgvSach_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -251,5 +296,7 @@ namespace Quanlythuvien
                 dgvSach.Rows.RemoveAt(e.RowIndex);
             }
         }
+=======
+>>>>>>> 720106e3e565ca7ceb8a7bac963c967253790dc6
     }
 }
